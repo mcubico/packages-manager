@@ -1,0 +1,1 @@
+export'package:qrlogistix/app/ui/models/menu_option_model.dart';
